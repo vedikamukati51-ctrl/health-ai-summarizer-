@@ -113,8 +113,8 @@ HealthAI_Summarizer/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/health-ai-summarizer.git
-cd health-ai-summarizer
+git clone https://github.com/vedikamukati51-ctrl/health-ai-summarizer-.git
+cd health-ai-summarizer-
 ```
 
 ---
