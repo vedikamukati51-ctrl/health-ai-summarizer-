@@ -1,0 +1,22 @@
+{
+  "name": "health-ai-summarizer-backend",
+  "version": "1.0.0",
+  "description": "Backend API Server and Database for Health AI Summarizer",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.23.0",
+    "cloudinary": "^2.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1",
+    "pg": "^8.23.1",
+    "tesseract.js": "^7.0.0"
+  }
+}

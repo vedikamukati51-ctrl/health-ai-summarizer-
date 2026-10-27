@@ -1,0 +1,127 @@
+{
+  "reports": [
+    {
+      "id": "rep-1789852588858",
+      "userId": "p-ananya",
+      "fileName": "Kaggle_Sample4_Lipid_Cardiovascular_Panel.pdf",
+      "fileSize": 2525,
+      "fileType": "application/pdf",
+      "reportDate": "2026-09-23",
+      "extractedText": "\n\nSRL Comprehensive Health Laboratory\nAccredited Medical Diagnostics & Pathology Laboratory · ISO 15189 Certified\nPatient Name: Ananya SharmaCollection Date: 2026-09-23\nAge / Gender: 29 Yrs / FemaleReferred By: Dr. S. K. Gupta, MD\nLIPID PROFILE & CARDIOVASCULAR RISK PANEL\nInvestigation / ParameterObserved ValueUnitsReference RangeFlag\n LDL Cholesterol165mg/dL< 100HIGH\n Serum Creatinine1.0mg/dL0.6 - 1.1NORMAL\n Fasting Blood Glucose90mg/dL70 - 99NORMAL\n Hemoglobin14.1g/dL12.0 - 15.5NORMAL\n Platelet Count215,000/μL150,000 - 450,000NORMAL\nClinical Pathologist Comments:\nElevated  LDL  cholesterol  at  165  mg/dL  elevates  atherogenic  risk.  Dietary  soluble  fiber,  lifestyle  intervention,  and  cardiovascular  follow-up\nrecommended.\nConfidential Medical Diagnostic Record · Verified by Senior Pathologist",
+      "summary": "Your report \"Kaggle_Sample4_Lipid_Cardiovascular_Panel.pdf\" has been analyzed. We identified 1 parameter(s) requiring attention: LDL Cholesterol is high at 165 mg/dL. The remaining 5 parameters are within standard reference ranges.",
+      "keyFindings": [
+        "Hemoglobin: 14.1 g/dL (Normal)",
+        "Platelet Count: 215000 /µL (Normal)",
+        "Fasting Blood Glucose: 90 mg/dL (Normal)",
+        "Serum Creatinine: 1 mg/dL (Normal)",
+        "Total Cholesterol: 165 mg/dL (Normal)",
+        "LDL Cholesterol: 165 mg/dL (HIGH)"
+      ],
+      "attentionNeeded": [
+        "LDL Cholesterol (165 mg/dL) is elevated. Consider dietary soluble fiber and cardiovascular follow-up."
+      ],
+      "createdAt": "2026-09-19T21:16:28.858Z"
+    },
+    {
+      "id": "rep-1789852470683",
+      "userId": "p-ananya",
+      "fileName": "OMC Report Sample - Neuro Surgery.pdf",
+      "fileSize": 36068,
+      "fileType": "application/pdf",
+      "reportDate": "2026-09-19",
+      "extractedText": "\n\nMedical Consultant Report and Summary\nCase No:  MD-    Physician:  \nDate:  June 13, 2009  Medical Consultant: \n1.    Detailed (Chronological) Analysis\n:\nOn 11/2/2005 at approximately 18:45, a 5 month old infant with no significant past medical history, was \nreported by his grandparents to have fallen off a bed hitting his head on a tile floor.  They took him to the \nEmergency Room atHospital where an evaluation by the attending physician was performed, \nincluding a skull xray read as normal.  The patient was discharged, but was brought back to the \nEmergency Room several hours later with increasing irritability, swelling of the scalp, and vomiting.  The \nsame ER physician evaluated the patient and a CT of the head at 12:50 am revealed a large epidural \nhematoma, acute, with mass effect and shift of the brain.  A transfer request was made to \nHospital and the patient arrived at 2:33 am. \n Dr. discussed the case with the resident physician on call in the hospital when the \npatient arrived at Hospital, approximately seven and a half hours after the injury.  His report \nindicates that the patient demonstrated evidence of brainstem herniation, including presence of posturing \nmotor responses.  The patient was treated with emergency surgical intervention, consisting of a \ncraniotomy to evacuate the hematoma.   \n At surgery, the patient was found to have a massive acute epidural hematoma consisting of \nnearly a third of the inctracranial volume.  Postoperatively the patient did not fully recover and suffered \nsignificant neurological injury. \n2.    Proposed Standard(s) of Care:\nThe standard of care for an infant presenting with a history of a closed head injury, neurological \nsymptoms, and a large acute epidural hematoma on imaging is surgical evacuation.  Generally, this is \nundertaken in an urgent fashion as sudden neurological deterioration can occur even in patients who are \nrelatively asymptomatic on initial presentation.   For large hematomas in patients with evidence of \nneurological injury, emergent surgery is essential if there is to be any hope of functional recovery. \n3.    Deviation from the Standard of Care\n:\nThere was no deviation from the standard of care by Dr.   All the parameters set forth above \nwere met.  He was prompt in his response to the condition of the patient when he became aware of it and \nhis decision making was sound.  There was no delay in care which would have in any way impacted on \nthe outcome of the patient. \n4.    Actual Harm Identified:\nThere was no actual harm to this patient from Dr. neurosurgical care. \n\nCase No.  \nDate           Page 2 \n5.    Potential Harm Identified\n:\nMinor criticisms of the evaluation include the timeliness of access intravenously provided to the patient \nand the discussion with the anesthesiologist regarding the need for transfusion.  The patient did complete \nsurgery at the Trauma center acidotic and anemic, which would generally indicate a need for correction \nthrough improved oxygenation and administration of blood products.  However, in this case, no \npreoperative levels were available and it is unclear what the condition of this patient was on arrival.  \nAdditional evaluation was apparently performed in the Hospitals emergency department which \nincluded a necessity for reintubation.  There is no evidence that Dr.was responsible for any \ndelay after arrival to the emergency department.   \n6.    Aggravating Factor(s)\n:\nNone identified \n7.    Mitigating Factor(s)\n:\nThe fact that the patient did not present to Neurosurgical attention until many hours after the injury and in \na state reflecting profound neurological injury reflects a very poor prognosis for functional recovery \ndespite appropriate and timely treatment. \n8.    Consultant’s Summary\n:   \nThis evaluator feels that Dr. met the standard of care for an infant with a large epidural \nhematoma by promptly arriving at the diagnosis and determining the infant’s level of profound \nneurological injury.  He met the sta",
+      "summary": "Your report \"OMC Report Sample - Neuro Surgery.pdf\" has been analyzed. We identified 1 parameter(s) requiring attention: TSH is high at 11 /2/2005. The remaining 0 parameters are within standard reference ranges.",
+      "keyFindings": [
+        "TSH: 11 /2/2005 (HIGH)"
+      ],
+      "attentionNeeded": [
+        "TSH (11 /2/2005) is flagged as HIGH. Review this finding with your healthcare provider."
+      ],
+      "createdAt": "2026-09-19T21:14:30.683Z"
+    }
+  ],
+  "parameters": [
+    {
+      "id": "param-1789852470683-0",
+      "reportId": "rep-1789852470683",
+      "name": "TSH",
+      "value": 11,
+      "unit": "/2/2005",
+      "status": "HIGH",
+      "referenceRange": "0.4 - 4.0 µIU/mL",
+      "category": "Thyroid Panel"
+    },
+    {
+      "id": "param-1789852588858-0",
+      "reportId": "rep-1789852588858",
+      "name": "Hemoglobin",
+      "value": 14.1,
+      "unit": "g/dL",
+      "status": "NORMAL",
+      "referenceRange": "12.0 - 15.5 g/dL",
+      "category": "Complete Blood Count"
+    },
+    {
+      "id": "param-1789852588858-1",
+      "reportId": "rep-1789852588858",
+      "name": "Platelet Count",
+      "value": 215000,
+      "unit": "/µL",
+      "status": "NORMAL",
+      "referenceRange": "150,000 - 450,000 /µL",
+      "category": "Complete Blood Count"
+    },
+    {
+      "id": "param-1789852588858-2",
+      "reportId": "rep-1789852588858",
+      "name": "Fasting Blood Glucose",
+      "value": 90,
+      "unit": "mg/dL",
+      "status": "NORMAL",
+      "referenceRange": "70 - 99 mg/dL",
+      "category": "Metabolic Panel"
+    },
+    {
+      "id": "param-1789852588858-3",
+      "reportId": "rep-1789852588858",
+      "name": "Serum Creatinine",
+      "value": 1,
+      "unit": "mg/dL",
+      "status": "NORMAL",
+      "referenceRange": "0.6 - 1.2 mg/dL",
+      "category": "Kidney Function"
+    },
+    {
+      "id": "param-1789852588858-4",
+      "reportId": "rep-1789852588858",
+      "name": "Total Cholesterol",
+      "value": 165,
+      "unit": "mg/dL",
+      "status": "NORMAL",
+      "referenceRange": "< 200 mg/dL",
+      "category": "Lipid Profile"
+    },
+    {
+      "id": "param-1789852588858-5",
+      "reportId": "rep-1789852588858",
+      "name": "LDL Cholesterol",
+      "value": 165,
+      "unit": "mg/dL",
+      "status": "HIGH",
+      "referenceRange": "< 100 mg/dL",
+      "category": "Lipid Profile"
+    }
+  ],
+  "profile": {
+    "fullName": "Ananya Sharma",
+    "age": 29,
+    "gender": "Female",
+    "bloodGroup": "B+",
+    "height": "165 cm",
+    "weight": "58 kg",
+    "allergies": "Penicillin, Pollen",
+    "conditions": "Mild Iron Deficiency Anemia",
+    "emergencyContact": "+91 98765 43210 (Dr. Sharma - Spouse)",
+    "address": "Mumbai, Maharashtra"
+  }
+}

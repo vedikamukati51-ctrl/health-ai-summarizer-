@@ -1,0 +1,10 @@
+Patient: Ananya Sharma
+Age: 29 | Gender: Female
+Date: 2026-09-19
+Diagnostic Laboratory Report - Metabolic & Hematology Panel
+-----------------------------------------------------------
+Hemoglobin: 10.8 g/dL (Reference: 12.0 - 15.5 g/dL)
+Serum Creatinine: 1.35 mg/dL (Reference: 0.6 - 1.1 mg/dL)
+Fasting Blood Glucose: 112 mg/dL (Reference: 70 - 99 mg/dL)
+WBC Count: 7,200 /µL (Reference: 4,500 - 11,000 /µL)
+Platelet Count: 220,000 /µL (Reference: 150,000 - 450,000 /µL)
